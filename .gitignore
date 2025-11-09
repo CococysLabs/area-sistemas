@@ -39,3 +39,25 @@ target/
 # Build
 build/
 dist/
+
+# Archivos de seguridad - NO SUBIR
+Seguridad.docx
+Seguridad.txt
+**/Seguridad.docx
+**/Seguridad.txt
+**/Seguridad*.txt
+**/Seguridad*.docx
+
+# Videos - archivos muy pesados, no subir
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+*.webm
+*.m4v
+*.mpg
+*.mpeg
+*.3gp
+*.ogv
