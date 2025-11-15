@@ -1,0 +1,23 @@
+# CODEOWNERS para area-sistemas
+# Estos usuarios deben aprobar TODOS los cambios antes de merge
+
+# Propietario principal - Debe aprobar TODO
+* @RivaldoTJ
+
+# Área de Sistemas - Cursos específicos
+/014-economia/ @RivaldoTJ
+/720-modelacion-simulacion-2/ @RivaldoTJ
+/722-teoria-sistemas-1/ @RivaldoTJ
+/724-teoria-sistemas-2/ @RivaldoTJ
+/729-modelacion-simulacion-1/ @RivaldoTJ
+/786-sistemas-organizacionales-gerenciales-1/ @RivaldoTJ
+/787-sistemas-organizacionales-gerenciales-2/ @RivaldoTJ
+/795-logica-sistemas/ @RivaldoTJ
+/797-seminario-sistemas-1/ @RivaldoTJ
+/798-seminario-sistemas-2/ @RivaldoTJ
+
+# Archivos críticos del repositorio
+/.github/ @RivaldoTJ
+/.gitignore @RivaldoTJ
+/README.md @RivaldoTJ
+/CONTRIBUTING.md @RivaldoTJ
